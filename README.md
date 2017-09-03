@@ -1,2 +1,2 @@
 # gilad-training
-Training day
+Training day - git summarizing task
